@@ -6,8 +6,21 @@ description: > # your text below (remove <br> elements if you don't need line br
   Data Analyst with 1+ years of doc services in analytics, +4 years of experiencie in business and a master's degree in Business Analytics.
   Previously in 
   <br>
-  Software Skills 
-  <br><br>
+  About me: 
+  <br>
+  const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+  <br>
   <a href="https://www.linkedin.com/in/miguelcb7"> View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
