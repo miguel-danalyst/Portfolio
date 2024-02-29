@@ -8,7 +8,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   About me: 
   <br>
-  "const Miguel = {
+  ```javascript
+  const Miguel = {
   pronouns: "she" | "her",
   code: [VBA, SQL, Pyhton],
   tools: [Excel 365, Postgres, Knime, Tableau, LookerStudio],
@@ -16,7 +17,8 @@ description: > # your text below (remove <br> elements if you don't need line br
                         Content: "Miguel - The Analyst"
                       },
  challenge: "I am doing the Maven Analytics Challenge"
-  }"
+  }
+  ```
   <br>
   <a href="https://www.linkedin.com/in/miguelcb7"> View My LinkedIn Profile</a> 
   
