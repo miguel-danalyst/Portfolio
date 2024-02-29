@@ -8,18 +8,15 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   About me: 
   <br>
-  "const thai = {
+  "const Miguel = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: [VBA, SQL, Pyhton],
+  tools: [Excel 365, Postgres, Knime, Tableau, LookerStudio],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        Content: "Miguel - The Analyst"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}"
+ challenge: "I am doing the Maven Analytics Challenge"
+  }"
   <br>
   <a href="https://www.linkedin.com/in/miguelcb7"> View My LinkedIn Profile</a> 
   
