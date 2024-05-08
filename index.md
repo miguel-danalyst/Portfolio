@@ -2,7 +2,7 @@
 
 ### Tableau
 
-####[Maven Analytics Coffee Challenge] 
+[Maven Analytics Coffee Challenge] 
 
 Challenge Objective
 For the Maven Coffee Challenge, you'll play the role of an Analytics Consultant hired by a group of investors looking to break into the US coffee market. They would like to leverage insights from "The Great American Coffee Taste Test", but lack the analytical skills to do so. That's where you come in!
@@ -18,7 +18,7 @@ Pricing strategy: How can we align prices with customer value perception?
 
 ---
 
-#### Another
+Another
 
 
 ---
