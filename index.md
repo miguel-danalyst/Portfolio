@@ -32,6 +32,5 @@ Interesting Task Ideas
 3.	Network analysis of Actors / Directors and find interesting insights
 4.	Does Netflix has more focus on TV Shows than movies in recent years.
 
-<a href="https://public.tableau.com/views/Coffee_17098516790180/MavenCoffeeChallenge?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link@@@@">Netflix Movie & TV - Tableau Public</a>
 
 ---
